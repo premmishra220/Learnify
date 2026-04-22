@@ -8,7 +8,7 @@ import userRouter from './routes/user.route.js';
 import courseRouter from './routes/course.route.js'
 import paymentRouter from './routes/payment.route.js'
 import errorMiddleware from './middlewares/error.middleware.js';
-
+// Hello
 
 const app = express();
 
